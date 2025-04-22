@@ -627,14 +627,14 @@ a {
 ul {
   list-style: none;}
 
-ul.list-style {
+#section-services ul.list-style {
   list-style-type: disc;
   padding-left: 20px;
   font-size: 18px;
   color: #666666;
   line-height: 1.8;}
   
-.award-item {
+#section-services .award-item {
   font-size: 18px;
   color: #fff;
   line-height: 1.6;}
