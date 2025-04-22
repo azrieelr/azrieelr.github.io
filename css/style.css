@@ -624,11 +624,11 @@ a {
   letter-spacing: .2rem;
   color: rgba(255, 255, 255, 0.5) !important; }
 
-#section-awards ul.list-style {
+ul.list-style {
   padding-left: 20px;
   list-style-type: disc;}
   
-#section-awards .award-item {
+.award-item {
   font-size: 18px;
   color: #bac964;
   line-height: 1.6;}
