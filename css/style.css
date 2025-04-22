@@ -37,6 +37,15 @@ h1, h2, h3, h4, h5 {
 h2 {
   font-size: 25px; }
 
+ul.list-style {
+  padding-left: 20px;
+  list-style-type: disc;}
+    
+.award-item {
+  font-size: 18px;
+  color: #ddd;
+  line-height: 1.6;}
+
 a {
   -webkit-transition: .3s all;
   -o-transition: .3s all;
