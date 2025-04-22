@@ -636,7 +636,7 @@ ul {
 
 .award-item::before {
 		content: "•"; /* Custom bullet */
-		color: #000; /* Bullet color */
+		color: #fff; /* Bullet color */
 		display: inline-block;
 		width: 1em;
 		margin-left: -1em;}
