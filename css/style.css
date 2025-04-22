@@ -633,6 +633,13 @@ ul {
   font-size: 18px;
   color: #666666;
   line-height: 1.8;}
+
+.award-item::before {
+		content: "•"; /* Custom bullet */
+		color: #000; /* Bullet color */
+		display: inline-block;
+		width: 1em;
+		margin-left: -1em;}
   
 #section-services .award-item {
   font-size: 20px;
