@@ -217,6 +217,7 @@ a {
     height: 100px;
     position: relative;
     border-radius: 0;
+    border: 2px solid black;
     margin: 0 auto 30px auto; }
     .site-service-item .icon span {
       font-size: 40px;
