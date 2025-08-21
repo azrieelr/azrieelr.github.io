@@ -207,14 +207,16 @@ a {
   background: #333;
   padding: 30px; }
   .site-service-item .icon {
-    display: block;
-    margin-bottom: 50px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
     background: #edf0f2;
     background: #bac964;
     width: 100px;
     height: 100px;
     position: relative;
-    border-radius: 50%;
+    border-radius: 0;
     margin: 0 auto 30px auto; }
     .site-service-item .icon span {
       font-size: 40px;
